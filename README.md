@@ -1,5 +1,7 @@
 # Startups_Analysis-
 
+![image]("C:\Users\ADMIN\Documents\My projects\Startups_Analysis-\Starp_failure_image.webp")
+
 Columns:
 
 1. Name: The startup’s name.

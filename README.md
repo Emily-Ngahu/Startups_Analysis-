@@ -1,6 +1,6 @@
 # Startups_Analysis-
 
-![image]("C:\Users\ADMIN\Documents\My projects\Startups_Analysis-\Starp_failure_image.webp")
+![image](https://github.com/Emily-Ngahu/Startups_Analysis-/blob/main/Starp_failure_image.webp)
 
 Columns:
 
